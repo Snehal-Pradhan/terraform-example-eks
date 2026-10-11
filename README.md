@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="/image.png" alt="architecture" width="85%" />
+<img src="/image.png" alt="architecture" width="65%" />
 
 <br />
 <br />
