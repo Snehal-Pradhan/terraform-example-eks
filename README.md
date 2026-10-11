@@ -1,6 +1,17 @@
+<div align="center">
+
 # terraform-eks-infrastructure
 
+<br />
+
+<img src="/image.png" alt="architecture" width="85%" />
+
+<br />
+<br />
+<br />
 Production-grade AWS EKS infrastructure provisioned with Terraform — one codebase, no hardcoded values, IRSA security, dual compute (EC2 node group + Fargate), and an S3-backed remote state.
+
+</div>
 
 ## Architecture
 
